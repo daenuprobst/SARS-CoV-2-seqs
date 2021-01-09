@@ -2,7 +2,7 @@
 I could not find a good and easy to use source for SARS-CoV-2 protein sequences, so I make mine available. It is a CSV file resulting from a preprocessing of the data made available [here](https://www.ncbi.nlm.nih.gov/datasets/coronavirus/genomes/). The sources of the data are RefSeq and GenBank.
 
 ## Download
-You can download the gzipped file [here]()
+You can download the gzipped file [here](https://github.com/daenuprobst/SARS-CoV-2-seqs/blob/main/data/annotated_seqs.csv.gz?raw=true).
 
 ## Get the raw data
 Protein sequences are downloaded from [here](https://www.ncbi.nlm.nih.gov/datasets/coronavirus/genomes/)
