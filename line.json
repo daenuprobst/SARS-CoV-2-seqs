@@ -1,0 +1,297 @@
+{'accession': 'MN908947.3', 'annotation': {'genes': [
+            {'cds': [
+                    {'name': 'orf1ab polyprotein', 'nucleotide': {'accessionVersion': 'MN908947.3', 'range': [
+                                {'begin': '266', 'end': '13468'
+                                },
+                                {'begin': '13468', 'end': '21555'
+                                }
+                            ], 'seqId': 'MN908947.3: 266-13468,
+                            13468-21555', 'sequenceHash': '9F004FDB', 'title': 'orf1ab polyprotein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 'otherNames': ['ORF1ab', 'ORF1ab polyprotein', 'open reading frame 1', 'open reading frame 1ab', 'orf1', 'orf1b', 'polyprotein 1ab', 'pp1ab'
+                        ], 'protein': {'accessionVersion': 'QHD43415.1', 'range': [
+                                {'begin': '1', 'end': '7096'
+                                }
+                            ], 'seqId': 'QHD43415.1: 1-7096', 'sequenceHash': '89013D3D', 'title': 'orf1ab polyprotein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ], 'name': 'orf1ab'
+            },
+            {'cds': [
+                    {
+                        'name': 'surface glycoprotein', 
+                        'nucleotide': {
+                            'accessionVersion': 'MN908947.3', 
+                            'range': [
+                                {'begin': '21563', 'end': '25384'
+                                }
+                            ], 
+                            'seqId': 'MN908947.3: 21563-25384', 
+                            'sequenceHash': 'B32D3CC0', 
+                            'title': 'surface glycoprotein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 
+                        'otherNames': ['ORF 2', 'open reading frame 2', 'spike', 'spike protein', 'surface glycoprotein'
+                        ], 
+                        'protein': {
+                            'accessionVersion': 'QHD43416.1', 
+                            'range': [
+                                {'begin': '1', 'end': '1273'
+                                }
+                            ], 
+                            'seqId': 'QHD43416.1: 1-1273', 
+                            'sequenceHash': 'DF1539B0', 
+                            'title': 'surface glycoprotein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ],
+                'name': 'S'
+            },
+            {'cds': [
+                    {'name': 'ORF3a protein', 'nucleotide': {'accessionVersion': 'MN908947.3', 'range': [
+                                {'begin': '25393', 'end': '26220'
+                                }
+                            ], 'seqId': 'MN908947.3: 25393-26220', 'sequenceHash': 'EC770D42', 'title': 'ORF3a protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 'otherNames': ['3a', 'ORF 3a', 'ORF3a', 'open reading frame 3a'
+                        ], 'protein': {'accessionVersion': 'QHD43417.1', 'range': [
+                                {'begin': '1', 'end': '275'
+                                }
+                            ], 'seqId': 'QHD43417.1: 1-275', 'sequenceHash': 'CA130D0F', 'title': 'ORF3a protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ], 'name': 'ORF3a'
+            },
+            {'cds': [
+                    {'name': 'envelope protein', 'nucleotide': {'accessionVersion': 'MN908947.3', 'range': [
+                                {'begin': '26245', 'end': '26472'
+                                }
+                            ], 'seqId': 'MN908947.3: 26245-26472', 'sequenceHash': 'CFFD0414', 'title': 'envelope protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 'otherNames': ['E', 'ORF 4', 'ORF4', 'envelope', 'envelope protein', 'open reading frame 4'
+                        ], 'protein': {'accessionVersion': 'QHD43418.1', 'range': [
+                                {'begin': '1', 'end': '75'
+                                }
+                            ], 'seqId': 'QHD43418.1: 1-75', 'sequenceHash': '8A7D03C2', 'title': 'envelope protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ], 'name': 'E'
+            },
+            {'cds': [
+                    {'name': 'membrane glycoprotein', 'nucleotide': {'accessionVersion': 'MN908947.3', 'range': [
+                                {'begin': '26523', 'end': '27191'
+                                }
+                            ], 'seqId': 'MN908947.3: 26523-27191', 'sequenceHash': '4A3D0AA4', 'title': 'membrane glycoprotein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 'otherNames': ['M', 'ORF 5', 'ORF5', 'matrix glycoprotein', 'matrix protein', 'membrane', 'membrane glycoprotein', 'open reading frame 5'
+                        ], 'protein': {'accessionVersion': 'QHD43419.1', 'range': [
+                                {'begin': '1', 'end': '222'
+                                }
+                            ], 'seqId': 'QHD43419.1: 1-222', 'sequenceHash': '404E09E2', 'title': 'membrane glycoprotein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ], 'name': 'M'
+            },
+            {'cds': [
+                    {'name': 'ORF6 protein', 'nucleotide': {'accessionVersion': 'MN908947.3', 'range': [
+                                {'begin': '27202', 'end': '27387'
+                                }
+                            ], 'seqId': 'MN908947.3: 27202-27387', 'sequenceHash': '252702F1', 'title': 'ORF6 protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 'otherNames': ['ORF 6', 'ORF6', 'open reading frame 6'
+                        ], 'protein': {'accessionVersion': 'QHD43420.1', 'range': [
+                                {'begin': '1', 'end': '61'
+                                }
+                            ], 'seqId': 'QHD43420.1: 1-61', 'sequenceHash': '543902B5', 'title': 'ORF6 protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ], 'name': 'ORF6'
+            },
+            {'cds': [
+                    {'name': 'ORF7a protein', 'nucleotide': {'accessionVersion': 'MN908947.3', 'range': [
+                                {'begin': '27394', 'end': '27759'
+                                }
+                            ], 'seqId': 'MN908947.3: 27394-27759', 'sequenceHash': '25E705AF', 'title': 'ORF7a protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 'otherNames': ['7a', 'ORF 7a', 'ORF7a', 'open reading frame 7a'
+                        ], 'protein': {'accessionVersion': 'QHD43421.1', 'range': [
+                                {'begin': '1', 'end': '121'
+                                }
+                            ], 'seqId': 'QHD43421.1: 1-121', 'sequenceHash': '3B2A0535', 'title': 'ORF7a protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ], 'name': 'ORF7a'
+            },
+            {'cds': [
+                    {'name': 'ORF8 protein', 'nucleotide': {'accessionVersion': 'MN908947.3', 'range': [
+                                {'begin': '27894', 'end': '28259'
+                                }
+                            ], 'seqId': 'MN908947.3: 27894-28259', 'sequenceHash': '43A50622', 'title': 'ORF8 protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 'otherNames': ['ORF 8', 'ORF8', 'open reading frame 8'
+                        ], 'protein': {'accessionVersion': 'QHD43422.1', 'range': [
+                                {'begin': '1', 'end': '121'
+                                }
+                            ], 'seqId': 'QHD43422.1: 1-121', 'sequenceHash': '47D40569', 'title': 'ORF8 protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ], 'name': 'ORF8'
+            },
+            {'cds': [
+                    {'name': 'nucleocapsid phosphoprotein', 'nucleotide': {'accessionVersion': 'MN908947.3', 'range': [
+                                {'begin': '28274', 'end': '29533'
+                                }
+                            ], 'seqId': 'MN908947.3: 28274-29533', 'sequenceHash': '4D3C10AF', 'title': 'nucleocapsid phosphoprotein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 'otherNames': ['ORF 9', 'ORF9', 'nucleocapsid', 'nucleocapsid phosphoprotein', 'open reading frame 9'
+                        ], 'protein': {'accessionVersion': 'QHD43423.2', 'range': [
+                                {'begin': '1', 'end': '419'
+                                }
+                            ], 'seqId': 'QHD43423.2: 1-419', 'sequenceHash': '9B7912B4', 'title': 'nucleocapsid phosphoprotein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ], 'name': 'N'
+            },
+            {'cds': [
+                    {'name': 'ORF10 protein', 'nucleotide': {'accessionVersion': 'MN908947.3', 'range': [
+                                {'begin': '29558', 'end': '29674'
+                                }
+                            ], 'seqId': 'MN908947.3: 29558-29674', 'sequenceHash': '761401EA', 'title': 'ORF10 protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }, 'otherNames': ['ORF 10', 'ORF10', 'open reading frame 10'
+                        ], 'protein': {'accessionVersion': 'QHI42199.1', 'range': [
+                                {'begin': '1', 'end': '38'
+                                }
+                            ], 'seqId': 'QHI42199.1: 1-38', 'sequenceHash': '231201DA', 'title': 'ORF10 protein [organism=Severe acute respiratory syndrome coronavirus 2
+                            ] [isolate=Wuhan-Hu-1
+                            ]'
+                        }
+                    }
+                ], 'name': 'ORF10'
+            }
+        ]
+    }, 'completeness': 'COMPLETE', 'geneCount': 10, 'host': {'lineage': [
+            {'name': 'cellular organisms', 'taxId': 131567
+            },
+            {'name': 'Eukaryota (eucaryotes)', 'taxId': 2759
+            },
+            {'name': 'Opisthokonta', 'taxId': 33154
+            },
+            {'name': 'Metazoa (metazoans)', 'taxId': 33208
+            },
+            {'name': 'Eumetazoa', 'taxId': 6072
+            },
+            {'name': 'Bilateria', 'taxId': 33213
+            },
+            {'name': 'Deuterostomia (deuterostomes)', 'taxId': 33511
+            },
+            {'name': 'Chordata (chordates)', 'taxId': 7711
+            },
+            {'name': 'Craniata', 'taxId': 89593
+            },
+            {'name': 'Vertebrata (vertebrates)', 'taxId': 7742
+            },
+            {'name': 'Gnathostomata (jawed vertebrates)', 'taxId': 7776
+            },
+            {'name': 'Teleostomi', 'taxId': 117570
+            },
+            {'name': 'Euteleostomi (bony vertebrates)', 'taxId': 117571
+            },
+            {'name': 'Sarcopterygii', 'taxId': 8287
+            },
+            {'name': 'Dipnotetrapodomorpha', 'taxId': 1338369
+            },
+            {'name': 'Tetrapoda (tetrapods)', 'taxId': 32523
+            },
+            {'name': 'Amniota (amniotes)', 'taxId': 32524
+            },
+            {'name': 'Mammalia (mammals)', 'taxId': 40674
+            },
+            {'name': 'Theria', 'taxId': 32525
+            },
+            {'name': 'Eutheria (placentals)', 'taxId': 9347
+            },
+            {'name': 'Boreoeutheria', 'taxId': 1437010
+            },
+            {'name': 'Euarchontoglires', 'taxId': 314146
+            },
+            {'name': 'Primates', 'taxId': 9443
+            },
+            {'name': 'Haplorrhini', 'taxId': 376913
+            },
+            {'name': 'Simiiformes', 'taxId': 314293
+            },
+            {'name': 'Catarrhini', 'taxId': 9526
+            },
+            {'name': 'Hominoidea (apes)', 'taxId': 314295
+            },
+            {'name': 'Hominidae (great apes)', 'taxId': 9604
+            },
+            {'name': 'Homininae', 'taxId': 207598
+            },
+            {'name': 'Homo (humans)', 'taxId': 9605
+            },
+            {'name': 'Homo sapiens (human)', 'taxId': 9606
+            }
+        ], 'sciName': 'Homo sapiens', 'taxId': 9606
+    }, 'isAnnotated': True, 'isolate': {'collectionDate': '2019-12', 'name': 'Wuhan-Hu-1'
+    }, 'length': 29903, 'location': {'geographicLocation': 'China', 'geographicRegion': 'Asia'
+    }, 'molType': 'ssRNA(+)', 'nucleotide': {'accessionVersion': 'MN908947.3', 'seqId': 'MN908947.3', 'sequenceHash': 'A926D55E', 'title': 'Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome'
+    }, 'nucleotideCompleteness': 'complete', 'proteinCount': 10, 'releaseDate': '2020-01-12', 'sourceDatabase': 'GenBank', 'updateDate': '2020-03-18', 'virus': {'lineage': [
+            {'name': 'Viruses', 'taxId': 10239
+            },
+            {'name': 'Riboviria (RNA viruses)', 'taxId': 2559587
+            },
+            {'name': 'Orthornavirae', 'taxId': 2732396
+            },
+            {'name': 'Pisuviricota', 'taxId': 2732408
+            },
+            {'name': 'Pisoniviricetes', 'taxId': 2732506
+            },
+            {'name': 'Nidovirales', 'taxId': 76804
+            },
+            {'name': 'Cornidovirineae', 'taxId': 2499399
+            },
+            {'name': 'Coronaviridae', 'taxId': 11118
+            },
+            {'name': 'Orthocoronavirinae', 'taxId': 2501931
+            },
+            {'name': 'Betacoronavirus', 'taxId': 694002
+            },
+            {'name': 'Sarbecovirus', 'taxId': 2509511
+            },
+            {'name': 'Severe acute respiratory syndrome-related coronavirus', 'taxId': 694009
+            },
+            {'name': 'Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)', 'taxId': 2697049
+            }
+        ], 'sciName': 'Severe acute respiratory syndrome coronavirus 2', 'taxId': 2697049
+    }
+}
