@@ -29,6 +29,22 @@ def main():
 
     # Write interesting annotations into a CSV file
     with gzip.open("data/annotated_seqs.csv.gz", "wb") as f_out:
+        # Write the header
+        f_out.write(
+            ";".join(
+                [
+                    "id",
+                    "gene",
+                    "collection_date",
+                    "region",
+                    "country",
+                    "subcountry",
+                    "seq",
+                ]
+            ).encode()
+        )
+
+        f_out.write("\n".encode())
         with open("data/ncbi_dataset/data/data_report.jsonl", "r") as f:
             for line in f.readlines():
                 data = json.loads(line)
@@ -57,7 +73,7 @@ def main():
                                 stats["subcountry_counts"][subcountry] += 1
 
                                 f_out.write(
-                                    ",".join(
+                                    ";".join(
                                         [
                                             id,
                                             genes["name"],
